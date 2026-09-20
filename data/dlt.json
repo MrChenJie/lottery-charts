@@ -1,0 +1,1079 @@
+{
+  "id": "dlt",
+  "name": "大乐透",
+  "schedule": "每周一、三、六约 21:25 开奖（以体彩官网为准）",
+  "ok": true,
+  "confidence": "cross_verified",
+  "updated_at": "2026-09-20T08:58:46Z",
+  "draw_count": 50,
+  "verified_count": 50,
+  "notes": [],
+  "error": null,
+  "meta": {
+    "red_count": 5,
+    "blue_count": 2,
+    "red_max": 35,
+    "blue_max": 12,
+    "digit": false
+  },
+  "draws": [
+    {
+      "issue": "26107",
+      "date": "2026-09-19",
+      "red": [
+        "02",
+        "05",
+        "07",
+        "14",
+        "22"
+      ],
+      "blue": [
+        "04",
+        "10"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26106",
+      "date": "2026-09-16",
+      "red": [
+        "14",
+        "17",
+        "21",
+        "25",
+        "28"
+      ],
+      "blue": [
+        "04",
+        "06"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26105",
+      "date": "2026-09-14",
+      "red": [
+        "10",
+        "14",
+        "30",
+        "33",
+        "34"
+      ],
+      "blue": [
+        "09",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26104",
+      "date": "2026-09-12",
+      "red": [
+        "01",
+        "06",
+        "14",
+        "15",
+        "26"
+      ],
+      "blue": [
+        "08",
+        "09"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26103",
+      "date": "2026-09-09",
+      "red": [
+        "03",
+        "16",
+        "17",
+        "32",
+        "35"
+      ],
+      "blue": [
+        "02",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26102",
+      "date": "2026-09-07",
+      "red": [
+        "01",
+        "03",
+        "07",
+        "27",
+        "28"
+      ],
+      "blue": [
+        "06",
+        "07"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26101",
+      "date": "2026-09-05",
+      "red": [
+        "09",
+        "11",
+        "18",
+        "26",
+        "33"
+      ],
+      "blue": [
+        "09",
+        "11"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26100",
+      "date": "2026-09-02",
+      "red": [
+        "02",
+        "06",
+        "11",
+        "15",
+        "31"
+      ],
+      "blue": [
+        "07",
+        "08"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26099",
+      "date": "2026-08-31",
+      "red": [
+        "02",
+        "17",
+        "20",
+        "29",
+        "33"
+      ],
+      "blue": [
+        "08",
+        "09"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26098",
+      "date": "2026-08-29",
+      "red": [
+        "07",
+        "09",
+        "18",
+        "19",
+        "21"
+      ],
+      "blue": [
+        "02",
+        "09"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26097",
+      "date": "2026-08-26",
+      "red": [
+        "03",
+        "10",
+        "12",
+        "20",
+        "25"
+      ],
+      "blue": [
+        "01",
+        "09"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26096",
+      "date": "2026-08-24",
+      "red": [
+        "08",
+        "09",
+        "10",
+        "11",
+        "25"
+      ],
+      "blue": [
+        "04",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26095",
+      "date": "2026-08-22",
+      "red": [
+        "04",
+        "06",
+        "08",
+        "10",
+        "14"
+      ],
+      "blue": [
+        "04",
+        "05"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26094",
+      "date": "2026-08-19",
+      "red": [
+        "05",
+        "14",
+        "15",
+        "17",
+        "33"
+      ],
+      "blue": [
+        "01",
+        "07"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26093",
+      "date": "2026-08-17",
+      "red": [
+        "08",
+        "10",
+        "22",
+        "26",
+        "29"
+      ],
+      "blue": [
+        "03",
+        "10"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26092",
+      "date": "2026-08-15",
+      "red": [
+        "12",
+        "16",
+        "19",
+        "29",
+        "33"
+      ],
+      "blue": [
+        "07",
+        "09"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26091",
+      "date": "2026-08-12",
+      "red": [
+        "03",
+        "04",
+        "07",
+        "12",
+        "32"
+      ],
+      "blue": [
+        "01",
+        "02"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26090",
+      "date": "2026-08-10",
+      "red": [
+        "09",
+        "14",
+        "17",
+        "19",
+        "24"
+      ],
+      "blue": [
+        "02",
+        "09"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26089",
+      "date": "2026-08-08",
+      "red": [
+        "03",
+        "07",
+        "12",
+        "14",
+        "26"
+      ],
+      "blue": [
+        "05",
+        "11"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26088",
+      "date": "2026-08-05",
+      "red": [
+        "03",
+        "09",
+        "11",
+        "24",
+        "27"
+      ],
+      "blue": [
+        "05",
+        "11"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26087",
+      "date": "2026-08-03",
+      "red": [
+        "05",
+        "10",
+        "16",
+        "24",
+        "27"
+      ],
+      "blue": [
+        "04",
+        "10"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26086",
+      "date": "2026-08-01",
+      "red": [
+        "10",
+        "11",
+        "18",
+        "22",
+        "35"
+      ],
+      "blue": [
+        "06",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26085",
+      "date": "2026-07-29",
+      "red": [
+        "03",
+        "04",
+        "14",
+        "28",
+        "31"
+      ],
+      "blue": [
+        "05",
+        "07"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26084",
+      "date": "2026-07-27",
+      "red": [
+        "13",
+        "25",
+        "30",
+        "32",
+        "33"
+      ],
+      "blue": [
+        "04",
+        "05"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26083",
+      "date": "2026-07-25",
+      "red": [
+        "14",
+        "15",
+        "16",
+        "23",
+        "26"
+      ],
+      "blue": [
+        "07",
+        "09"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26082",
+      "date": "2026-07-22",
+      "red": [
+        "16",
+        "26",
+        "27",
+        "28",
+        "34"
+      ],
+      "blue": [
+        "02",
+        "06"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26081",
+      "date": "2026-07-20",
+      "red": [
+        "08",
+        "16",
+        "18",
+        "24",
+        "34"
+      ],
+      "blue": [
+        "09",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26080",
+      "date": "2026-07-18",
+      "red": [
+        "05",
+        "10",
+        "15",
+        "21",
+        "23"
+      ],
+      "blue": [
+        "07",
+        "08"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26079",
+      "date": "2026-07-15",
+      "red": [
+        "06",
+        "08",
+        "23",
+        "26",
+        "27"
+      ],
+      "blue": [
+        "05",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26078",
+      "date": "2026-07-13",
+      "red": [
+        "02",
+        "13",
+        "20",
+        "25",
+        "32"
+      ],
+      "blue": [
+        "08",
+        "11"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26077",
+      "date": "2026-07-11",
+      "red": [
+        "04",
+        "14",
+        "19",
+        "24",
+        "27"
+      ],
+      "blue": [
+        "06",
+        "07"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26076",
+      "date": "2026-07-08",
+      "red": [
+        "15",
+        "20",
+        "27",
+        "28",
+        "35"
+      ],
+      "blue": [
+        "02",
+        "11"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26075",
+      "date": "2026-07-06",
+      "red": [
+        "01",
+        "06",
+        "16",
+        "18",
+        "26"
+      ],
+      "blue": [
+        "04",
+        "10"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26074",
+      "date": "2026-07-04",
+      "red": [
+        "01",
+        "04",
+        "10",
+        "23",
+        "25"
+      ],
+      "blue": [
+        "01",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26073",
+      "date": "2026-07-01",
+      "red": [
+        "04",
+        "10",
+        "22",
+        "23",
+        "33"
+      ],
+      "blue": [
+        "02",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26072",
+      "date": "2026-06-29",
+      "red": [
+        "01",
+        "13",
+        "26",
+        "29",
+        "30"
+      ],
+      "blue": [
+        "09",
+        "11"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26071",
+      "date": "2026-06-27",
+      "red": [
+        "05",
+        "13",
+        "22",
+        "26",
+        "32"
+      ],
+      "blue": [
+        "02",
+        "03"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26070",
+      "date": "2026-06-24",
+      "red": [
+        "04",
+        "05",
+        "15",
+        "21",
+        "32"
+      ],
+      "blue": [
+        "02",
+        "11"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26069",
+      "date": "2026-06-22",
+      "red": [
+        "12",
+        "19",
+        "21",
+        "24",
+        "29"
+      ],
+      "blue": [
+        "03",
+        "10"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26068",
+      "date": "2026-06-20",
+      "red": [
+        "03",
+        "11",
+        "12",
+        "21",
+        "22"
+      ],
+      "blue": [
+        "06",
+        "10"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26067",
+      "date": "2026-06-17",
+      "red": [
+        "06",
+        "16",
+        "18",
+        "19",
+        "28"
+      ],
+      "blue": [
+        "07",
+        "11"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26066",
+      "date": "2026-06-15",
+      "red": [
+        "10",
+        "13",
+        "19",
+        "21",
+        "30"
+      ],
+      "blue": [
+        "04",
+        "05"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26065",
+      "date": "2026-06-13",
+      "red": [
+        "04",
+        "11",
+        "12",
+        "13",
+        "25"
+      ],
+      "blue": [
+        "04",
+        "08"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26064",
+      "date": "2026-06-10",
+      "red": [
+        "03",
+        "13",
+        "15",
+        "17",
+        "21"
+      ],
+      "blue": [
+        "02",
+        "07"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26063",
+      "date": "2026-06-08",
+      "red": [
+        "03",
+        "15",
+        "20",
+        "29",
+        "31"
+      ],
+      "blue": [
+        "01",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26062",
+      "date": "2026-06-06",
+      "red": [
+        "07",
+        "15",
+        "20",
+        "24",
+        "29"
+      ],
+      "blue": [
+        "04",
+        "10"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26061",
+      "date": "2026-06-03",
+      "red": [
+        "10",
+        "12",
+        "26",
+        "31",
+        "35"
+      ],
+      "blue": [
+        "02",
+        "12"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26060",
+      "date": "2026-06-01",
+      "red": [
+        "22",
+        "28",
+        "30",
+        "31",
+        "34"
+      ],
+      "blue": [
+        "01",
+        "05"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26059",
+      "date": "2026-05-30",
+      "red": [
+        "06",
+        "13",
+        "17",
+        "19",
+        "26"
+      ],
+      "blue": [
+        "07",
+        "08"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26058",
+      "date": "2026-05-27",
+      "red": [
+        "07",
+        "12",
+        "13",
+        "18",
+        "34"
+      ],
+      "blue": [
+        "01",
+        "05"
+      ],
+      "verified": true,
+      "sources": [
+        "500.com",
+        "sporttery.cn"
+      ]
+    }
+  ],
+  "refresh_ok": true,
+  "reference": {
+    "ok": true,
+    "message": "基于已核对真实开奖的热号/冷号混合统计，仅供娱乐参考，不提高中奖概率",
+    "based_on_issues": 50,
+    "picks": [
+      {
+        "label": "统计参考一注",
+        "red": [
+          "03",
+          "10",
+          "14",
+          "15",
+          "26"
+        ],
+        "blue": [
+          "02",
+          "09"
+        ]
+      }
+    ],
+    "hot_red": [
+      "10",
+      "26",
+      "14",
+      "15",
+      "03",
+      "12",
+      "13",
+      "21"
+    ],
+    "cold_red": [
+      "02",
+      "35",
+      "01",
+      "08",
+      "09",
+      "23",
+      "30",
+      "31"
+    ],
+    "hot_blue": [
+      "09",
+      "02",
+      "07",
+      "04",
+      "12",
+      "05"
+    ],
+    "cold_blue": [
+      "03",
+      "06",
+      "01",
+      "08",
+      "10",
+      "11"
+    ]
+  }
+}

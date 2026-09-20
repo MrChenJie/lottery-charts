@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-09-20T08:58:43Z",
+  "lotteries": {
+    "ssq": {
+      "ok": true,
+      "refresh_ok": true,
+      "confidence": "cross_verified",
+      "updated_at": "2026-09-20T08:58:44Z",
+      "draw_count": 50,
+      "verified_count": 50,
+      "error": null,
+      "notes": []
+    },
+    "dlt": {
+      "ok": true,
+      "refresh_ok": true,
+      "confidence": "cross_verified",
+      "updated_at": "2026-09-20T08:58:46Z",
+      "draw_count": 50,
+      "verified_count": 50,
+      "error": null,
+      "notes": []
+    },
+    "fc3d": {
+      "ok": true,
+      "refresh_ok": true,
+      "confidence": "primary_only",
+      "updated_at": "2026-09-20T08:58:47Z",
+      "draw_count": 50,
+      "verified_count": 0,
+      "error": null,
+      "notes": [
+        "次源抓取失败，仅使用主源（已标注未交叉验证）"
+      ]
+    },
+    "pl3": {
+      "ok": true,
+      "refresh_ok": true,
+      "confidence": "primary_only",
+      "updated_at": "2026-09-20T08:58:49Z",
+      "draw_count": 50,
+      "verified_count": 0,
+      "error": null,
+      "notes": [
+        "次源抓取失败，仅使用主源（已标注未交叉验证）",
+        "排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）"
+      ]
+    },
+    "qlc": {
+      "ok": true,
+      "refresh_ok": true,
+      "confidence": "cross_verified",
+      "updated_at": "2026-09-20T08:58:49Z",
+      "draw_count": 50,
+      "verified_count": 50,
+      "error": null,
+      "notes": []
+    }
+  },
+  "disclaimer": "开奖数据来自公开免费源交叉核对；统计参考选号非预测。购彩请以官网为准。",
+  "ok": true
+}

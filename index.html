@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f2744" />
+  <title>开奖走势查阅</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">开奖走势查阅</div>
+    <p class="tagline">多源交叉核对 · 真实开奖 · 手机可读</p>
+  </header>
+
+  <div id="statusBar" class="status" role="status">正在加载数据…</div>
+
+  <nav class="tabs" id="tabs" aria-label="彩种切换"></nav>
+
+  <main class="wrap">
+    <section class="card" id="scheduleCard">
+      <h2 id="lotteryTitle">—</h2>
+      <p class="muted" id="scheduleText">—</p>
+      <div class="latest" id="latestDraw"></div>
+    </section>
+
+    <section class="card">
+      <h2>参考选号</h2>
+      <p class="warn">统计参考，不提高中奖概率。理性购彩，以官网为准。</p>
+      <div id="refPicks"></div>
+      <div class="chips" id="hotCold"></div>
+    </section>
+
+    <section class="card">
+      <h2>出现次数分析</h2>
+      <p class="muted">近期待开号码频次（基于已抓取真实数据）</p>
+      <div class="chart-scroll">
+        <canvas id="freqChart" height="180"></canvas>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>走势表</h2>
+      <p class="muted">左右滑动查看 · 实心为当期开出</p>
+      <div class="trend-scroll" id="trendWrap"></div>
+    </section>
+
+    <section class="card">
+      <h2>近期开奖</h2>
+      <div class="draw-list" id="drawList"></div>
+    </section>
+
+    <section class="card sources">
+      <h2>数据说明</h2>
+      <ul>
+        <li>主源：中国福彩 / 体彩公开接口</li>
+        <li>次源：500.com 历史开奖（双色球/大乐透/七乐彩交叉核对）</li>
+        <li>福彩3D、排列3：目前多为官方单源，页面会标明「单源」</li>
+        <li>不一致号码会丢弃；抓取失败会提示，绝不伪造</li>
+        <li>不含付费「大神荐号」</li>
+      </ul>
+      <p class="muted" id="notesText"></p>
+    </section>
+  </main>
+
+  <footer class="foot">
+    开奖独立随机。本站仅作查阅与统计工具，请以福彩/体彩官网为准。
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
