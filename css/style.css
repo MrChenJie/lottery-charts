@@ -17,7 +17,12 @@
 }
 
 * { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; }
+html, body {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+}
 body {
   font-family: var(--font);
   color: var(--ink);
@@ -52,6 +57,7 @@ body {
   background: #fff8e8;
   color: #6a4b12;
   border-bottom: 1px solid #edd9a8;
+  overflow-wrap: anywhere;
 }
 .status.ok { background: #e8f6ee; color: var(--ok); border-color: #b7dfc6; }
 .status.bad { background: #fdeeee; color: var(--bad); border-color: #efc0c0; }
@@ -87,6 +93,7 @@ body {
   margin: 0 auto;
   display: grid;
   gap: 0.9rem;
+  min-width: 0;
 }
 
 .card {
@@ -95,6 +102,8 @@ body {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   padding: 1rem 1rem 1.1rem;
+  min-width: 0;
+  max-width: 100%;
 }
 .card h2 {
   margin: 0 0 0.45rem;
@@ -118,6 +127,7 @@ body {
   width: 100%;
   font-size: 0.9rem;
   color: var(--muted);
+  overflow-wrap: anywhere;
 }
 
 .ball {
@@ -162,14 +172,19 @@ body {
 }
 .chip strong { color: var(--ink); font-weight: 600; }
 
-.chart-scroll { overflow-x: auto; }
-#freqChart { width: 100%; max-width: 100%; }
+.chart-scroll {
+  overflow-x: auto;
+  max-width: 100%;
+}
+#freqChart { width: 100%; max-width: 100%; display: block; }
 
 .trend-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   border: 1px solid var(--line);
   border-radius: 10px;
+  max-width: 100%;
+  width: 100%;
 }
 .trend {
   border-collapse: collapse;

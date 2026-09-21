@@ -16,6 +16,23 @@ function $(id) {
   return document.getElementById(id);
 }
 
+function formatBeijing(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return String(iso).replace(/Z$/, "").replace("T", " ");
+  const parts = new Intl.DateTimeFormat("zh-CN", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  }).formatToParts(d);
+  const get = (t) => parts.find((p) => p.type === t)?.value || "";
+  return `${get("year")}-${get("month")}-${get("day")} ${get("hour")}:${get("minute")} 北京时间`;
+}
+
 function ballHtml(n, color) {
   return `<span class="ball ${color}">${n}</span>`;
 }
@@ -276,7 +293,7 @@ function renderDrawList(data) {
 function renderNotes(data) {
   const notes = [];
   if (data.confidence) notes.push("置信度：" + confidenceLabel(data.confidence));
-  if (data.updated_at) notes.push("数据时间：" + data.updated_at);
+  if (data.updated_at) notes.push("数据时间：" + formatBeijing(data.updated_at));
   if (data.refresh_ok === false) notes.push("最近刷新失败：" + (data.refresh_error || ""));
   if (data.notes?.length) notes.push(...data.notes);
   if (data.error) notes.push("错误：" + data.error);
@@ -313,12 +330,12 @@ async function renderLottery() {
       );
     } else if (data.confidence === "cross_verified") {
       setStatus(
-        `已加载 ${data.name}：多源交叉核对 ${data.verified_count || 0}/${data.draw_count || 0} 期 · 更新 ${data.updated_at || ""}`,
+        `已加载 ${data.name}：多源交叉核对 ${data.verified_count || 0}/${data.draw_count || 0} 期 · 更新 ${formatBeijing(data.updated_at)}`,
         "ok"
       );
     } else {
       setStatus(
-        `已加载 ${data.name}：${confidenceLabel(data.confidence)} · ${data.draw_count || 0} 期 · 更新 ${data.updated_at || ""}`,
+        `已加载 ${data.name}：${confidenceLabel(data.confidence)} · ${data.draw_count || 0} 期 · 更新 ${formatBeijing(data.updated_at)}`,
         st?.refresh_ok === false ? "bad" : ""
       );
     }
