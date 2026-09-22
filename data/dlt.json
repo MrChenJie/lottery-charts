@@ -4,12 +4,10 @@
   "schedule": "每周一、三、六约 21:25 开奖（以体彩官网为准）",
   "ok": true,
   "confidence": "cross_verified",
-  "updated_at": "2026-09-22T00:25:18Z",
+  "updated_at": "2026-09-22T12:25:19Z",
   "draw_count": 50,
   "verified_count": 50,
-  "notes": [
-    "本次更新失败，页面仍显示上一次成功抓取的真实数据"
-  ],
+  "notes": [],
   "error": null,
   "meta": {
     "red_count": 5,
@@ -1020,7 +1018,7 @@
       ]
     }
   ],
-  "refresh_ok": false,
+  "refresh_ok": true,
   "reference": {
     "ok": true,
     "message": "基于已核对真实开奖的热号/冷号混合统计，仅供娱乐参考，不提高中奖概率",
@@ -1077,7 +1075,5 @@
       "10",
       "05"
     ]
-  },
-  "refresh_error": "primary: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>; secondary: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>",
-  "refresh_at": "2026-09-22T06:25:29Z"
+  }
 }

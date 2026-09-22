@@ -3,14 +3,11 @@
   "name": "七乐彩",
   "schedule": "每周一、三、五约 21:15 开奖（以福彩官网为准）",
   "ok": true,
-  "confidence": "primary_only",
-  "updated_at": "2026-09-22T06:25:34Z",
+  "confidence": "cross_verified",
+  "updated_at": "2026-09-22T12:25:21Z",
   "draw_count": 50,
-  "verified_count": 0,
-  "notes": [
-    "次源抓取失败，仅使用主源（已标注未交叉验证）",
-    "secondary: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
-  ],
+  "verified_count": 50,
+  "notes": [],
   "error": null,
   "meta": {
     "red_count": 7,
@@ -35,8 +32,9 @@
       "blue": [
         "19"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -55,8 +53,9 @@
       "blue": [
         "26"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -75,8 +74,9 @@
       "blue": [
         "02"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -95,8 +95,9 @@
       "blue": [
         "07"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -115,8 +116,9 @@
       "blue": [
         "16"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -135,8 +137,9 @@
       "blue": [
         "27"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -155,8 +158,9 @@
       "blue": [
         "29"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -175,8 +179,9 @@
       "blue": [
         "30"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -195,8 +200,9 @@
       "blue": [
         "09"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -215,8 +221,9 @@
       "blue": [
         "24"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -235,8 +242,9 @@
       "blue": [
         "13"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -255,8 +263,9 @@
       "blue": [
         "11"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -275,8 +284,9 @@
       "blue": [
         "22"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -295,8 +305,9 @@
       "blue": [
         "16"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -315,8 +326,9 @@
       "blue": [
         "07"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -335,8 +347,9 @@
       "blue": [
         "13"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -355,8 +368,9 @@
       "blue": [
         "15"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -375,8 +389,9 @@
       "blue": [
         "13"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -395,8 +410,9 @@
       "blue": [
         "10"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -415,8 +431,9 @@
       "blue": [
         "25"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -435,8 +452,9 @@
       "blue": [
         "09"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -455,8 +473,9 @@
       "blue": [
         "07"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -475,8 +494,9 @@
       "blue": [
         "02"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -495,8 +515,9 @@
       "blue": [
         "17"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -515,8 +536,9 @@
       "blue": [
         "19"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -535,8 +557,9 @@
       "blue": [
         "11"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -555,8 +578,9 @@
       "blue": [
         "14"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -575,8 +599,9 @@
       "blue": [
         "21"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -595,8 +620,9 @@
       "blue": [
         "23"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -615,8 +641,9 @@
       "blue": [
         "07"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -635,8 +662,9 @@
       "blue": [
         "10"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -655,8 +683,9 @@
       "blue": [
         "21"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -675,8 +704,9 @@
       "blue": [
         "27"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -695,8 +725,9 @@
       "blue": [
         "03"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -715,8 +746,9 @@
       "blue": [
         "30"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -735,8 +767,9 @@
       "blue": [
         "12"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -755,8 +788,9 @@
       "blue": [
         "09"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -775,8 +809,9 @@
       "blue": [
         "09"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -795,8 +830,9 @@
       "blue": [
         "21"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -815,8 +851,9 @@
       "blue": [
         "16"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -835,8 +872,9 @@
       "blue": [
         "28"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -855,8 +893,9 @@
       "blue": [
         "27"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -875,8 +914,9 @@
       "blue": [
         "16"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -895,8 +935,9 @@
       "blue": [
         "06"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -915,8 +956,9 @@
       "blue": [
         "05"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -935,8 +977,9 @@
       "blue": [
         "27"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -955,8 +998,9 @@
       "blue": [
         "19"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -975,8 +1019,9 @@
       "blue": [
         "16"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -995,8 +1040,9 @@
       "blue": [
         "26"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     },
@@ -1015,8 +1061,9 @@
       "blue": [
         "03"
       ],
-      "verified": false,
+      "verified": true,
       "sources": [
+        "500.com",
         "cwl.gov.cn"
       ]
     }

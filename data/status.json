@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-22T06:25:25Z",
+  "updated_at": "2026-09-22T12:25:17Z",
   "lotteries": {
     "ssq": {
       "ok": true,
       "refresh_ok": true,
       "confidence": "cross_verified",
-      "updated_at": "2026-09-22T06:25:27Z",
+      "updated_at": "2026-09-22T12:25:18Z",
       "draw_count": 50,
       "verified_count": 50,
       "error": null,
@@ -13,21 +13,19 @@
     },
     "dlt": {
       "ok": true,
-      "refresh_ok": false,
+      "refresh_ok": true,
       "confidence": "cross_verified",
-      "updated_at": "2026-09-22T00:25:18Z",
+      "updated_at": "2026-09-22T12:25:19Z",
       "draw_count": 50,
       "verified_count": 50,
-      "error": "primary: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>; secondary: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>",
-      "notes": [
-        "本次更新失败，页面仍显示上一次成功抓取的真实数据"
-      ]
+      "error": null,
+      "notes": []
     },
     "fc3d": {
       "ok": true,
       "refresh_ok": true,
       "confidence": "primary_only",
-      "updated_at": "2026-09-22T06:25:31Z",
+      "updated_at": "2026-09-22T12:25:20Z",
       "draw_count": 50,
       "verified_count": 0,
       "error": null,
@@ -37,30 +35,26 @@
     },
     "pl3": {
       "ok": true,
-      "refresh_ok": false,
-      "confidence": "primary_only",
-      "updated_at": "2026-09-22T00:25:21Z",
-      "draw_count": 50,
-      "verified_count": 0,
-      "error": "primary: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>; 排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）",
-      "notes": [
-        "次源抓取失败，仅使用主源（已标注未交叉验证）",
-        "排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）",
-        "本次更新失败，页面仍显示上一次成功抓取的真实数据"
-      ]
-    },
-    "qlc": {
-      "ok": true,
       "refresh_ok": true,
       "confidence": "primary_only",
-      "updated_at": "2026-09-22T06:25:34Z",
+      "updated_at": "2026-09-22T12:25:20Z",
       "draw_count": 50,
       "verified_count": 0,
       "error": null,
       "notes": [
         "次源抓取失败，仅使用主源（已标注未交叉验证）",
-        "secondary: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>"
+        "排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）"
       ]
+    },
+    "qlc": {
+      "ok": true,
+      "refresh_ok": true,
+      "confidence": "cross_verified",
+      "updated_at": "2026-09-22T12:25:21Z",
+      "draw_count": 50,
+      "verified_count": 50,
+      "error": null,
+      "notes": []
     }
   },
   "disclaimer": "开奖数据来自公开免费源交叉核对；统计参考选号非预测。购彩请以官网为准。",
