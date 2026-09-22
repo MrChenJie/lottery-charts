@@ -9,7 +9,8 @@
   "verified_count": 0,
   "notes": [
     "次源抓取失败，仅使用主源（已标注未交叉验证）",
-    "排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）"
+    "排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）",
+    "本次更新失败，页面仍显示上一次成功抓取的真实数据"
   ],
   "error": null,
   "meta": {
@@ -721,7 +722,7 @@
       ]
     }
   ],
-  "refresh_ok": true,
+  "refresh_ok": false,
   "reference": {
     "ok": true,
     "message": "基于已核对真实开奖的热号/冷号混合统计，仅供娱乐参考，不提高中奖概率",
@@ -755,5 +756,7 @@
     ],
     "hot_blue": [],
     "cold_blue": []
-  }
+  },
+  "refresh_error": "primary: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)>; 排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）",
+  "refresh_at": "2026-09-22T06:25:32Z"
 }
