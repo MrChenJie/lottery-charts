@@ -4,7 +4,7 @@
   "schedule": "每日约 20:30 开奖（以体彩官网为准）",
   "ok": true,
   "confidence": "primary_only",
-  "updated_at": "2026-09-22T12:25:20Z",
+  "updated_at": "2026-09-23T05:09:05Z",
   "draw_count": 50,
   "verified_count": 0,
   "notes": [
@@ -20,6 +20,20 @@
     "digit": true
   },
   "draws": [
+    {
+      "issue": "26255",
+      "date": "2026-09-22",
+      "red": [
+        "7",
+        "6",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
     {
       "issue": "26254",
       "date": "2026-09-21",
@@ -705,20 +719,6 @@
       "sources": [
         "sporttery.cn"
       ]
-    },
-    {
-      "issue": "26205",
-      "date": "2026-08-03",
-      "red": [
-        "8",
-        "0",
-        "6"
-      ],
-      "blue": [],
-      "verified": false,
-      "sources": [
-        "sporttery.cn"
-      ]
     }
   ],
   "refresh_ok": true,
@@ -738,12 +738,12 @@
       }
     ],
     "hot_red": [
-      "0",
       "9",
+      "0",
       "1",
       "2",
-      "6",
-      "7"
+      "7",
+      "6"
     ],
     "cold_red": [
       "3",
