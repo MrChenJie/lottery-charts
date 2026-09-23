@@ -4,12 +4,11 @@
   "schedule": "每日约 20:30 开奖（以福彩官网为准）",
   "ok": true,
   "confidence": "primary_only",
-  "updated_at": "2026-09-23T05:09:04Z",
+  "updated_at": "2026-09-23T06:25:16Z",
   "draw_count": 50,
   "verified_count": 0,
   "notes": [
-    "次源抓取失败，仅使用主源（已标注未交叉验证）",
-    "本次更新失败，页面仍显示上一次成功抓取的真实数据"
+    "次源抓取失败，仅使用主源（已标注未交叉验证）"
   ],
   "error": null,
   "meta": {
@@ -721,7 +720,7 @@
       ]
     }
   ],
-  "refresh_ok": false,
+  "refresh_ok": true,
   "reference": {
     "ok": true,
     "message": "基于已核对真实开奖的热号/冷号混合统计，仅供娱乐参考，不提高中奖概率",
@@ -755,7 +754,5 @@
     ],
     "hot_blue": [],
     "cold_blue": []
-  },
-  "refresh_error": "primary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>; secondary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>",
-  "refresh_at": "2026-09-23T05:16:05Z"
+  }
 }
