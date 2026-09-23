@@ -1,60 +1,68 @@
 {
-  "updated_at": "2026-09-23T05:09:00Z",
+  "updated_at": "2026-09-23T05:15:47Z",
   "lotteries": {
     "ssq": {
       "ok": true,
-      "refresh_ok": true,
+      "refresh_ok": false,
       "confidence": "cross_verified",
       "updated_at": "2026-09-23T05:09:01Z",
       "draw_count": 50,
       "verified_count": 50,
-      "error": null,
-      "notes": []
+      "error": "primary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>; secondary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>",
+      "notes": [
+        "本次更新失败，页面仍显示上一次成功抓取的真实数据"
+      ]
     },
     "dlt": {
       "ok": true,
-      "refresh_ok": true,
+      "refresh_ok": false,
       "confidence": "cross_verified",
       "updated_at": "2026-09-23T05:09:03Z",
       "draw_count": 50,
       "verified_count": 50,
-      "error": null,
-      "notes": []
+      "error": "primary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>; secondary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>",
+      "notes": [
+        "本次更新失败，页面仍显示上一次成功抓取的真实数据"
+      ]
     },
     "fc3d": {
       "ok": true,
-      "refresh_ok": true,
+      "refresh_ok": false,
       "confidence": "primary_only",
       "updated_at": "2026-09-23T05:09:04Z",
       "draw_count": 50,
       "verified_count": 0,
-      "error": null,
+      "error": "primary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>; secondary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>",
       "notes": [
-        "次源抓取失败，仅使用主源（已标注未交叉验证）"
+        "次源抓取失败，仅使用主源（已标注未交叉验证）",
+        "本次更新失败，页面仍显示上一次成功抓取的真实数据"
       ]
     },
     "pl3": {
       "ok": true,
-      "refresh_ok": true,
+      "refresh_ok": false,
       "confidence": "primary_only",
       "updated_at": "2026-09-23T05:09:05Z",
       "draw_count": 50,
       "verified_count": 0,
-      "error": null,
+      "error": "primary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>; 排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）",
       "notes": [
         "次源抓取失败，仅使用主源（已标注未交叉验证）",
-        "排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）"
+        "排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）",
+        "本次更新失败，页面仍显示上一次成功抓取的真实数据"
       ]
     },
     "qlc": {
       "ok": true,
-      "refresh_ok": true,
+      "refresh_ok": false,
       "confidence": "cross_verified",
       "updated_at": "2026-09-23T05:09:06Z",
       "draw_count": 50,
       "verified_count": 50,
-      "error": null,
-      "notes": []
+      "error": "primary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>; secondary: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>",
+      "notes": [
+        "本次更新失败，页面仍显示上一次成功抓取的真实数据"
+      ]
     }
   },
   "disclaimer": "开奖数据来自公开免费源交叉核对；统计参考选号非预测。购彩请以官网为准。",
