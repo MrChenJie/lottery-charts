@@ -4,7 +4,7 @@
   "schedule": "每日约 20:30 开奖（以体彩官网为准）",
   "ok": true,
   "confidence": "primary_only",
-  "updated_at": "2026-10-01T00:25:18Z",
+  "updated_at": "2026-10-08T06:25:19Z",
   "draw_count": 50,
   "verified_count": 0,
   "notes": [
@@ -20,6 +20,48 @@
     "digit": true
   },
   "draws": [
+    {
+      "issue": "26266",
+      "date": "2026-10-07",
+      "red": [
+        "1",
+        "2",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26265",
+      "date": "2026-10-06",
+      "red": [
+        "9",
+        "5",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26264",
+      "date": "2026-10-05",
+      "red": [
+        "5",
+        "9",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
     {
       "issue": "26263",
       "date": "2026-09-30",
@@ -677,48 +719,6 @@
       "sources": [
         "sporttery.cn"
       ]
-    },
-    {
-      "issue": "26216",
-      "date": "2026-08-14",
-      "red": [
-        "9",
-        "5",
-        "3"
-      ],
-      "blue": [],
-      "verified": false,
-      "sources": [
-        "sporttery.cn"
-      ]
-    },
-    {
-      "issue": "26215",
-      "date": "2026-08-13",
-      "red": [
-        "9",
-        "2",
-        "7"
-      ],
-      "blue": [],
-      "verified": false,
-      "sources": [
-        "sporttery.cn"
-      ]
-    },
-    {
-      "issue": "26214",
-      "date": "2026-08-12",
-      "red": [
-        "0",
-        "1",
-        "4"
-      ],
-      "blue": [],
-      "verified": false,
-      "sources": [
-        "sporttery.cn"
-      ]
     }
   ],
   "refresh_ok": true,
@@ -731,7 +731,7 @@
         "label": "统计参考一注",
         "red": [
           "1",
-          "7",
+          "2",
           "9"
         ],
         "blue": []
@@ -740,15 +740,15 @@
     "hot_red": [
       "1",
       "9",
-      "7",
       "2",
+      "7",
       "0",
-      "3"
+      "6"
     ],
     "cold_red": [
-      "5",
       "8",
       "4",
+      "5",
       "3",
       "6",
       "0"

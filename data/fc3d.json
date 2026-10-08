@@ -4,7 +4,7 @@
   "schedule": "每日约 20:30 开奖（以福彩官网为准）",
   "ok": true,
   "confidence": "primary_only",
-  "updated_at": "2026-10-01T00:25:17Z",
+  "updated_at": "2026-10-08T06:25:18Z",
   "draw_count": 50,
   "verified_count": 0,
   "notes": [
@@ -19,6 +19,48 @@
     "digit": true
   },
   "draws": [
+    {
+      "issue": "2026266",
+      "date": "2026-10-07",
+      "red": [
+        "3",
+        "4",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026265",
+      "date": "2026-10-06",
+      "red": [
+        "1",
+        "6",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026264",
+      "date": "2026-10-05",
+      "red": [
+        "1",
+        "1",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
     {
       "issue": "2026263",
       "date": "2026-09-30",
@@ -676,48 +718,6 @@
       "sources": [
         "cwl.gov.cn"
       ]
-    },
-    {
-      "issue": "2026216",
-      "date": "2026-08-14",
-      "red": [
-        "9",
-        "3",
-        "5"
-      ],
-      "blue": [],
-      "verified": false,
-      "sources": [
-        "cwl.gov.cn"
-      ]
-    },
-    {
-      "issue": "2026215",
-      "date": "2026-08-13",
-      "red": [
-        "1",
-        "7",
-        "2"
-      ],
-      "blue": [],
-      "verified": false,
-      "sources": [
-        "cwl.gov.cn"
-      ]
-    },
-    {
-      "issue": "2026214",
-      "date": "2026-08-12",
-      "red": [
-        "5",
-        "4",
-        "5"
-      ],
-      "blue": [],
-      "verified": false,
-      "sources": [
-        "cwl.gov.cn"
-      ]
     }
   ],
   "refresh_ok": true,
@@ -738,19 +738,19 @@
     ],
     "hot_red": [
       "9",
-      "5",
       "8",
-      "2",
+      "5",
       "6",
-      "0"
+      "2",
+      "1"
     ],
     "cold_red": [
-      "1",
       "4",
-      "3",
       "7",
+      "3",
       "0",
-      "6"
+      "1",
+      "2"
     ],
     "hot_blue": [],
     "cold_blue": []
