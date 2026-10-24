@@ -4,7 +4,7 @@
   "schedule": "每日约 20:30 开奖（以福彩官网为准）",
   "ok": true,
   "confidence": "primary_only",
-  "updated_at": "2026-10-24T12:25:17Z",
+  "updated_at": "2026-10-24T18:25:16Z",
   "draw_count": 50,
   "verified_count": 0,
   "notes": [
@@ -19,6 +19,20 @@
     "digit": true
   },
   "draws": [
+    {
+      "issue": "2026283",
+      "date": "2026-10-24",
+      "red": [
+        "2",
+        "0",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
     {
       "issue": "2026282",
       "date": "2026-10-23",
@@ -704,20 +718,6 @@
       "sources": [
         "cwl.gov.cn"
       ]
-    },
-    {
-      "issue": "2026233",
-      "date": "2026-08-31",
-      "red": [
-        "9",
-        "7",
-        "0"
-      ],
-      "blue": [],
-      "verified": false,
-      "sources": [
-        "cwl.gov.cn"
-      ]
     }
   ],
   "refresh_ok": true,
@@ -745,10 +745,10 @@
       "6"
     ],
     "cold_red": [
-      "2",
       "3",
-      "4",
       "7",
+      "2",
+      "4",
       "1",
       "5"
     ],
