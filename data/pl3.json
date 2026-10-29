@@ -4,8 +4,8 @@
   "schedule": "每日约 20:30 开奖（以体彩官网为准）",
   "ok": true,
   "confidence": "primary_only",
-  "updated_at": "2026-10-29T06:25:17Z",
-  "draw_count": 50,
+  "updated_at": "2026-10-29T12:52:07Z",
+  "draw_count": 100,
   "verified_count": 0,
   "notes": [
     "次源抓取失败，仅使用主源（已标注未交叉验证）",
@@ -719,41 +719,1206 @@
       "sources": [
         "sporttery.cn"
       ]
+    },
+    {
+      "issue": "26237",
+      "date": "2026-09-04",
+      "red": [
+        "9",
+        "5",
+        "0"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26236",
+      "date": "2026-09-03",
+      "red": [
+        "1",
+        "7",
+        "3"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26235",
+      "date": "2026-09-02",
+      "red": [
+        "7",
+        "7",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26234",
+      "date": "2026-09-01",
+      "red": [
+        "3",
+        "0",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26233",
+      "date": "2026-08-31",
+      "red": [
+        "1",
+        "6",
+        "3"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26232",
+      "date": "2026-08-30",
+      "red": [
+        "8",
+        "0",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26231",
+      "date": "2026-08-29",
+      "red": [
+        "1",
+        "8",
+        "7"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26230",
+      "date": "2026-08-28",
+      "red": [
+        "9",
+        "4",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26229",
+      "date": "2026-08-27",
+      "red": [
+        "2",
+        "8",
+        "0"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26228",
+      "date": "2026-08-26",
+      "red": [
+        "5",
+        "6",
+        "0"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26227",
+      "date": "2026-08-25",
+      "red": [
+        "4",
+        "3",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26226",
+      "date": "2026-08-24",
+      "red": [
+        "2",
+        "0",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26225",
+      "date": "2026-08-23",
+      "red": [
+        "1",
+        "1",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26224",
+      "date": "2026-08-22",
+      "red": [
+        "9",
+        "1",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26223",
+      "date": "2026-08-21",
+      "red": [
+        "2",
+        "2",
+        "3"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26222",
+      "date": "2026-08-20",
+      "red": [
+        "8",
+        "7",
+        "7"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26221",
+      "date": "2026-08-19",
+      "red": [
+        "9",
+        "6",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26220",
+      "date": "2026-08-18",
+      "red": [
+        "4",
+        "8",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26219",
+      "date": "2026-08-17",
+      "red": [
+        "6",
+        "6",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26218",
+      "date": "2026-08-16",
+      "red": [
+        "0",
+        "7",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26217",
+      "date": "2026-08-15",
+      "red": [
+        "0",
+        "1",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26216",
+      "date": "2026-08-14",
+      "red": [
+        "9",
+        "5",
+        "3"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26215",
+      "date": "2026-08-13",
+      "red": [
+        "9",
+        "2",
+        "7"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26214",
+      "date": "2026-08-12",
+      "red": [
+        "0",
+        "1",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26213",
+      "date": "2026-08-11",
+      "red": [
+        "7",
+        "4",
+        "0"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26212",
+      "date": "2026-08-10",
+      "red": [
+        "8",
+        "3",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26211",
+      "date": "2026-08-09",
+      "red": [
+        "5",
+        "1",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26210",
+      "date": "2026-08-08",
+      "red": [
+        "0",
+        "9",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26209",
+      "date": "2026-08-07",
+      "red": [
+        "9",
+        "8",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26208",
+      "date": "2026-08-06",
+      "red": [
+        "4",
+        "7",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26207",
+      "date": "2026-08-05",
+      "red": [
+        "8",
+        "6",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26206",
+      "date": "2026-08-04",
+      "red": [
+        "7",
+        "0",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26205",
+      "date": "2026-08-03",
+      "red": [
+        "8",
+        "0",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26204",
+      "date": "2026-08-02",
+      "red": [
+        "6",
+        "7",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26203",
+      "date": "2026-08-01",
+      "red": [
+        "1",
+        "3",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26202",
+      "date": "2026-07-31",
+      "red": [
+        "9",
+        "6",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26201",
+      "date": "2026-07-30",
+      "red": [
+        "8",
+        "6",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26200",
+      "date": "2026-07-29",
+      "red": [
+        "0",
+        "7",
+        "7"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26199",
+      "date": "2026-07-28",
+      "red": [
+        "3",
+        "0",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26198",
+      "date": "2026-07-27",
+      "red": [
+        "7",
+        "1",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26197",
+      "date": "2026-07-26",
+      "red": [
+        "4",
+        "7",
+        "3"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26196",
+      "date": "2026-07-25",
+      "red": [
+        "7",
+        "2",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26195",
+      "date": "2026-07-24",
+      "red": [
+        "5",
+        "9",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26194",
+      "date": "2026-07-23",
+      "red": [
+        "7",
+        "0",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26193",
+      "date": "2026-07-22",
+      "red": [
+        "1",
+        "8",
+        "0"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26192",
+      "date": "2026-07-21",
+      "red": [
+        "3",
+        "0",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26191",
+      "date": "2026-07-20",
+      "red": [
+        "0",
+        "6",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26190",
+      "date": "2026-07-19",
+      "red": [
+        "5",
+        "5",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26189",
+      "date": "2026-07-18",
+      "red": [
+        "9",
+        "5",
+        "0"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
+    },
+    {
+      "issue": "26188",
+      "date": "2026-07-17",
+      "red": [
+        "6",
+        "0",
+        "7"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "sporttery.cn"
+      ]
     }
   ],
   "refresh_ok": true,
   "reference": {
     "ok": true,
-    "message": "基于已核对真实开奖的热号/冷号混合统计，仅供娱乐参考，不提高中奖概率",
-    "based_on_issues": 50,
+    "message": "综合热冷、遗漏、欲出几率与定胆杀号的统计参考（对齐 500/17500 常用指标），不提高中奖概率",
+    "based_on_issues": 100,
+    "method": "omit+want_rate+dan_sha+form",
     "picks": [
       {
-        "label": "统计参考一注",
+        "label": "定位均衡",
         "red": [
+          "9",
+          "7",
+          "0"
+        ],
+        "blue": [],
+        "positional": true
+      },
+      {
+        "label": "均衡参考",
+        "red": [
+          "0",
           "1",
-          "2",
           "6"
+        ],
+        "blue": []
+      },
+      {
+        "label": "热号参考",
+        "red": [
+          "0",
+          "1",
+          "6"
+        ],
+        "blue": []
+      },
+      {
+        "label": "欲出/冷号参考",
+        "red": [
+          "0",
+          "7",
+          "9"
         ],
         "blue": []
       }
     ],
     "hot_red": [
+      "0",
       "1",
       "6",
-      "2",
-      "7",
       "9",
-      "0"
-    ],
-    "cold_red": [
-      "5",
+      "7",
+      "2",
+      "3",
       "8",
       "4",
-      "3",
+      "5"
+    ],
+    "cold_red": [
       "0",
-      "9"
+      "9",
+      "7",
+      "6",
+      "3",
+      "2",
+      "8",
+      "1",
+      "4",
+      "5"
     ],
     "hot_blue": [],
-    "cold_blue": []
+    "cold_blue": [],
+    "omission_red": [
+      {
+        "n": "0",
+        "appear": 34,
+        "current": 11,
+        "avg": 1.7,
+        "max": 11,
+        "max_streak": 4,
+        "want_rate": 6.6
+      },
+      {
+        "n": "1",
+        "appear": 33,
+        "current": 0,
+        "avg": 1.9,
+        "max": 6,
+        "max_streak": 4,
+        "want_rate": 0.0
+      },
+      {
+        "n": "2",
+        "appear": 27,
+        "current": 1,
+        "avg": 2.5,
+        "max": 10,
+        "max_streak": 3,
+        "want_rate": 0.41
+      },
+      {
+        "n": "3",
+        "appear": 25,
+        "current": 2,
+        "avg": 2.9,
+        "max": 12,
+        "max_streak": 3,
+        "want_rate": 0.7
+      },
+      {
+        "n": "4",
+        "appear": 21,
+        "current": 0,
+        "avg": 3.9,
+        "max": 12,
+        "max_streak": 2,
+        "want_rate": 0.0
+      },
+      {
+        "n": "5",
+        "appear": 21,
+        "current": 0,
+        "avg": 3.9,
+        "max": 12,
+        "max_streak": 2,
+        "want_rate": 0.0
+      },
+      {
+        "n": "6",
+        "appear": 33,
+        "current": 2,
+        "avg": 2.0,
+        "max": 11,
+        "max_streak": 3,
+        "want_rate": 0.98
+      },
+      {
+        "n": "7",
+        "appear": 31,
+        "current": 3,
+        "avg": 2.2,
+        "max": 8,
+        "max_streak": 3,
+        "want_rate": 1.36
+      },
+      {
+        "n": "8",
+        "appear": 23,
+        "current": 1,
+        "avg": 3.2,
+        "max": 13,
+        "max_streak": 2,
+        "want_rate": 0.31
+      },
+      {
+        "n": "9",
+        "appear": 33,
+        "current": 6,
+        "avg": 1.9,
+        "max": 6,
+        "max_streak": 4,
+        "want_rate": 3.2
+      }
+    ],
+    "omission_blue": [],
+    "dan": [
+      "1",
+      "5",
+      "0"
+    ],
+    "sha": [
+      "4",
+      "8",
+      "3"
+    ],
+    "latest_form": {
+      "sum": 10,
+      "span": 4,
+      "odd_even": "2:1",
+      "big_small": "1:2",
+      "mod3": "121",
+      "group": "组六"
+    },
+    "windows": [
+      30,
+      50,
+      100
+    ],
+    "omission_positions": {
+      "bai": [
+        {
+          "n": "0",
+          "appear": 10,
+          "current": 18,
+          "avg": 7.7,
+          "max": 22,
+          "max_streak": 2,
+          "want_rate": 2.35
+        },
+        {
+          "n": "1",
+          "appear": 13,
+          "current": 0,
+          "avg": 6.8,
+          "max": 21,
+          "max_streak": 1,
+          "want_rate": 0.0
+        },
+        {
+          "n": "2",
+          "appear": 12,
+          "current": 1,
+          "avg": 4.7,
+          "max": 12,
+          "max_streak": 1,
+          "want_rate": 0.21
+        },
+        {
+          "n": "3",
+          "appear": 7,
+          "current": 13,
+          "avg": 12.7,
+          "max": 34,
+          "max_streak": 1,
+          "want_rate": 1.03
+        },
+        {
+          "n": "4",
+          "appear": 8,
+          "current": 8,
+          "avg": 10.7,
+          "max": 18,
+          "max_streak": 1,
+          "want_rate": 0.75
+        },
+        {
+          "n": "5",
+          "appear": 8,
+          "current": 9,
+          "avg": 11.6,
+          "max": 20,
+          "max_streak": 1,
+          "want_rate": 0.78
+        },
+        {
+          "n": "6",
+          "appear": 10,
+          "current": 2,
+          "avg": 9.8,
+          "max": 24,
+          "max_streak": 2,
+          "want_rate": 0.2
+        },
+        {
+          "n": "7",
+          "appear": 8,
+          "current": 14,
+          "avg": 10.3,
+          "max": 21,
+          "max_streak": 1,
+          "want_rate": 1.36
+        },
+        {
+          "n": "8",
+          "appear": 10,
+          "current": 7,
+          "avg": 7.8,
+          "max": 18,
+          "max_streak": 1,
+          "want_rate": 0.9
+        },
+        {
+          "n": "9",
+          "appear": 14,
+          "current": 6,
+          "avg": 6.1,
+          "max": 14,
+          "max_streak": 2,
+          "want_rate": 0.99
+        }
+      ],
+      "shi": [
+        {
+          "n": "0",
+          "appear": 13,
+          "current": 11,
+          "avg": 6.3,
+          "max": 33,
+          "max_streak": 2,
+          "want_rate": 1.74
+        },
+        {
+          "n": "1",
+          "appear": 10,
+          "current": 1,
+          "avg": 8.8,
+          "max": 23,
+          "max_streak": 2,
+          "want_rate": 0.11
+        },
+        {
+          "n": "2",
+          "appear": 8,
+          "current": 16,
+          "avg": 9.7,
+          "max": 20,
+          "max_streak": 2,
+          "want_rate": 1.65
+        },
+        {
+          "n": "3",
+          "appear": 6,
+          "current": 26,
+          "avg": 10.6,
+          "max": 26,
+          "max_streak": 1,
+          "want_rate": 2.45
+        },
+        {
+          "n": "4",
+          "appear": 6,
+          "current": 5,
+          "avg": 12.8,
+          "max": 17,
+          "max_streak": 1,
+          "want_rate": 0.39
+        },
+        {
+          "n": "5",
+          "appear": 9,
+          "current": 0,
+          "avg": 11.2,
+          "max": 25,
+          "max_streak": 2,
+          "want_rate": 0.0
+        },
+        {
+          "n": "6",
+          "appear": 14,
+          "current": 7,
+          "avg": 5.8,
+          "max": 15,
+          "max_streak": 2,
+          "want_rate": 1.2
+        },
+        {
+          "n": "7",
+          "appear": 17,
+          "current": 3,
+          "avg": 4.4,
+          "max": 13,
+          "max_streak": 2,
+          "want_rate": 0.68
+        },
+        {
+          "n": "8",
+          "appear": 9,
+          "current": 6,
+          "avg": 10.0,
+          "max": 27,
+          "max_streak": 1,
+          "want_rate": 0.6
+        },
+        {
+          "n": "9",
+          "appear": 8,
+          "current": 15,
+          "avg": 10.0,
+          "max": 41,
+          "max_streak": 2,
+          "want_rate": 1.5
+        }
+      ],
+      "ge": [
+        {
+          "n": "0",
+          "appear": 13,
+          "current": 15,
+          "avg": 5.9,
+          "max": 19,
+          "max_streak": 2,
+          "want_rate": 2.54
+        },
+        {
+          "n": "1",
+          "appear": 13,
+          "current": 8,
+          "avg": 6.1,
+          "max": 17,
+          "max_streak": 2,
+          "want_rate": 1.32
+        },
+        {
+          "n": "2",
+          "appear": 9,
+          "current": 16,
+          "avg": 7.8,
+          "max": 16,
+          "max_streak": 2,
+          "want_rate": 2.06
+        },
+        {
+          "n": "3",
+          "appear": 12,
+          "current": 2,
+          "avg": 7.0,
+          "max": 18,
+          "max_streak": 1,
+          "want_rate": 0.29
+        },
+        {
+          "n": "4",
+          "appear": 9,
+          "current": 0,
+          "avg": 11.1,
+          "max": 27,
+          "max_streak": 1,
+          "want_rate": 0.0
+        },
+        {
+          "n": "5",
+          "appear": 7,
+          "current": 37,
+          "avg": 8.2,
+          "max": 37,
+          "max_streak": 1,
+          "want_rate": 4.53
+        },
+        {
+          "n": "6",
+          "appear": 11,
+          "current": 11,
+          "avg": 7.4,
+          "max": 18,
+          "max_streak": 2,
+          "want_rate": 1.49
+        },
+        {
+          "n": "7",
+          "appear": 10,
+          "current": 3,
+          "avg": 9.7,
+          "max": 19,
+          "max_streak": 1,
+          "want_rate": 0.31
+        },
+        {
+          "n": "8",
+          "appear": 4,
+          "current": 1,
+          "avg": 7.3,
+          "max": 15,
+          "max_streak": 1,
+          "want_rate": 0.14
+        },
+        {
+          "n": "9",
+          "appear": 12,
+          "current": 27,
+          "avg": 5.3,
+          "max": 27,
+          "max_streak": 2,
+          "want_rate": 5.12
+        }
+      ]
+    },
+    "next_prediction": {
+      "ok": true,
+      "for_issue": "26288",
+      "after_issue": "26287",
+      "after_date": "2026-10-28",
+      "lottery_id": "pl3",
+      "red": [
+        "9",
+        "6",
+        "1"
+      ],
+      "blue": [],
+      "reasons": [
+        {
+          "n": "9",
+          "area": "百位",
+          "reason": "百位：欲出0.99，遗漏6/均6.1，出现14"
+        },
+        {
+          "n": "6",
+          "area": "十位",
+          "reason": "十位：欲出1.2，遗漏7/均5.8，出现14"
+        },
+        {
+          "n": "1",
+          "area": "个位",
+          "reason": "个位：欲出1.32，遗漏8/均6.1，出现13"
+        }
+      ],
+      "method": "评分=欲出贴近1.25 + 出现次数 + 定胆/重号/邻号加权；默认避开杀号池。娱乐统计，不提高中奖概率。",
+      "based_on_issues": 100,
+      "disclaimer": "依据历史遗漏与形态加权，非保证开奖结果。",
+      "updated_at": "2026-10-29T12:52:07Z"
+    }
   }
 }

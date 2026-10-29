@@ -4,4 +4,16 @@ __pycache__/
 .vscode/
 scripts/_debug_sources.py
 
-.github/
+# Unrelated local worksheets / marketing extracts (not part of this app)
+签证管理系统_工作量评估.xlsx
+scripts/channel_proto_extract.txt
+scripts/compress_effort_safe.py
+scripts/find_compress_xlsx.py
+scripts/gen_home_daily_effort.py
+scripts/gen_visa_effort_xlsx.py
+scripts/marketing_*.txt
+scripts/parse_channel_proto.py
+scripts/parse_marketing_*.py
+scripts/patch_lead_fe_days.py
+scripts/prd_*.txt
+scripts/sum_lead_days*.py

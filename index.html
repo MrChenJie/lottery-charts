@@ -10,38 +10,83 @@
 <body>
   <header class="top">
     <div class="brand">开奖走势查阅</div>
-    <p class="tagline">多源交叉核对 · 真实开奖 · 手机可读</p>
+    <p class="tagline">多源核对 · 遗漏/欲出几率 · 定胆杀号 · 手机可读</p>
   </header>
 
   <div id="statusBar" class="status" role="status">正在加载数据…</div>
 
   <nav class="tabs" id="tabs" aria-label="彩种切换"></nav>
 
+  <div class="toolbar" id="windowBar" aria-label="统计窗口">
+    <span class="muted">统计期数</span>
+    <button type="button" data-w="30">近30期</button>
+    <button type="button" data-w="50" class="active">近50期</button>
+    <button type="button" data-w="100">近100期</button>
+  </div>
+
   <main class="wrap">
+    <section class="card" id="boardCard">
+      <h2>今日总览</h2>
+      <p class="muted">点卡片切换彩种 · 显示最新开奖与下一期统计号</p>
+      <div class="board-grid" id="boardGrid"></div>
+    </section>
+
     <section class="card" id="scheduleCard">
       <h2 id="lotteryTitle">—</h2>
       <p class="muted" id="scheduleText">—</p>
+      <div class="freshness" id="freshness"></div>
       <div class="latest" id="latestDraw"></div>
     </section>
 
+    <section class="card predict-card">
+      <div class="card-head">
+        <h2>下一期统计预测</h2>
+        <button type="button" class="btn" id="copyPredictBtn">复制号码</button>
+      </div>
+      <p class="warn">有依据的加权缩号，不是乱给；也<strong>不能</strong>提高真实中奖概率。数据随定时任务自动更新。</p>
+      <div id="nextPredict"></div>
+    </section>
+
     <section class="card">
-      <h2>参考选号</h2>
-      <p class="warn">统计参考，不提高中奖概率。理性购彩，以官网为准。</p>
+      <h2>复式注数估算</h2>
+      <p class="muted">按当前彩种规则估算注数与金额（仅计算器，非购彩）</p>
+      <div class="calc-row" id="betCalc"></div>
+    </section>
+
+    <section class="card">
+      <div class="card-head">
+        <h2>备选参考选号</h2>
+      </div>
+      <p class="muted">均衡 / 热号 / 欲出等备选，口径对齐 500.com / 17500。</p>
       <div id="refPicks"></div>
       <div class="chips" id="hotCold"></div>
+      <div class="dan-sha" id="danSha"></div>
+    </section>
+
+    <section class="card">
+      <h2>上期形态</h2>
+      <p class="muted">奇偶 / 大小 / 和值 / 跨度 / 分区等（3D·排列3 含组选类型与 012 路）</p>
+      <div class="form-grid" id="formGrid"></div>
+    </section>
+
+    <section class="card">
+      <h2>遗漏与欲出几率</h2>
+      <p class="muted">欲出几率 = 当前遗漏 ÷ 平均遗漏（≥1.5 常被站点标为关注回补）</p>
+      <div class="omit-tabs" id="omitTabs"></div>
+      <div class="omit-scroll" id="omitTable"></div>
     </section>
 
     <section class="card">
       <h2>出现次数分析</h2>
-      <p class="muted">近期待开号码频次（基于已抓取真实数据）</p>
+      <p class="muted" id="freqHint">近期待开号码频次（基于已抓取真实数据）</p>
       <div class="chart-scroll">
         <canvas id="freqChart" height="180"></canvas>
       </div>
     </section>
 
     <section class="card">
-      <h2>走势表</h2>
-      <p class="muted">左右滑动查看 · 实心为当期开出</p>
+      <h2>走势表（带遗漏）</h2>
+      <p class="muted">左右滑动 · 实心为开出 · 数字为当期遗漏值（同 500 基本走势）</p>
       <div class="trend-scroll" id="trendWrap"></div>
     </section>
 
@@ -55,9 +100,10 @@
       <ul>
         <li>主源：中国福彩 / 体彩公开接口</li>
         <li>次源：500.com 历史开奖（双色球/大乐透/七乐彩交叉核对）</li>
+        <li>分析口径参考 datachart.500.com、17500 遗漏表（出现次数、平均/最大遗漏、欲出几率、定胆杀号）</li>
         <li>福彩3D、排列3：目前多为官方单源，页面会标明「单源」</li>
         <li>不一致号码会丢弃；抓取失败会提示，绝不伪造</li>
-        <li>不含付费「大神荐号」</li>
+        <li>不含付费「大神荐号」爬取</li>
       </ul>
       <p class="muted" id="notesText"></p>
     </section>
@@ -67,6 +113,7 @@
     开奖独立随机。本站仅作查阅与统计工具，请以福彩/体彩官网为准。
   </footer>
 
+  <script src="js/analysis.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>

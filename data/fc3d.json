@@ -4,8 +4,8 @@
   "schedule": "每日约 20:30 开奖（以福彩官网为准）",
   "ok": true,
   "confidence": "primary_only",
-  "updated_at": "2026-10-29T06:25:17Z",
-  "draw_count": 50,
+  "updated_at": "2026-10-29T12:52:06Z",
+  "draw_count": 100,
   "verified_count": 0,
   "notes": [
     "次源抓取失败，仅使用主源（已标注未交叉验证）"
@@ -718,41 +718,1206 @@
       "sources": [
         "cwl.gov.cn"
       ]
+    },
+    {
+      "issue": "2026237",
+      "date": "2026-09-04",
+      "red": [
+        "8",
+        "5",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026236",
+      "date": "2026-09-03",
+      "red": [
+        "0",
+        "4",
+        "7"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026235",
+      "date": "2026-09-02",
+      "red": [
+        "2",
+        "1",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026234",
+      "date": "2026-09-01",
+      "red": [
+        "6",
+        "9",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026233",
+      "date": "2026-08-31",
+      "red": [
+        "9",
+        "7",
+        "0"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026232",
+      "date": "2026-08-30",
+      "red": [
+        "6",
+        "5",
+        "8"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026231",
+      "date": "2026-08-29",
+      "red": [
+        "7",
+        "3",
+        "3"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026230",
+      "date": "2026-08-28",
+      "red": [
+        "0",
+        "6",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026229",
+      "date": "2026-08-27",
+      "red": [
+        "8",
+        "2",
+        "8"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026228",
+      "date": "2026-08-26",
+      "red": [
+        "3",
+        "9",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026227",
+      "date": "2026-08-25",
+      "red": [
+        "5",
+        "2",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026226",
+      "date": "2026-08-24",
+      "red": [
+        "8",
+        "5",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026225",
+      "date": "2026-08-23",
+      "red": [
+        "5",
+        "5",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026224",
+      "date": "2026-08-22",
+      "red": [
+        "8",
+        "6",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026223",
+      "date": "2026-08-21",
+      "red": [
+        "9",
+        "4",
+        "8"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026222",
+      "date": "2026-08-20",
+      "red": [
+        "3",
+        "8",
+        "0"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026221",
+      "date": "2026-08-19",
+      "red": [
+        "2",
+        "9",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026220",
+      "date": "2026-08-18",
+      "red": [
+        "3",
+        "7",
+        "3"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026219",
+      "date": "2026-08-17",
+      "red": [
+        "2",
+        "2",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026218",
+      "date": "2026-08-16",
+      "red": [
+        "3",
+        "8",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026217",
+      "date": "2026-08-15",
+      "red": [
+        "8",
+        "8",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026216",
+      "date": "2026-08-14",
+      "red": [
+        "9",
+        "3",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026215",
+      "date": "2026-08-13",
+      "red": [
+        "1",
+        "7",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026214",
+      "date": "2026-08-12",
+      "red": [
+        "5",
+        "4",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026213",
+      "date": "2026-08-11",
+      "red": [
+        "8",
+        "7",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026212",
+      "date": "2026-08-10",
+      "red": [
+        "5",
+        "6",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026211",
+      "date": "2026-08-09",
+      "red": [
+        "7",
+        "0",
+        "8"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026210",
+      "date": "2026-08-08",
+      "red": [
+        "7",
+        "5",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026209",
+      "date": "2026-08-07",
+      "red": [
+        "2",
+        "8",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026208",
+      "date": "2026-08-06",
+      "red": [
+        "6",
+        "3",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026207",
+      "date": "2026-08-05",
+      "red": [
+        "4",
+        "1",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026206",
+      "date": "2026-08-04",
+      "red": [
+        "9",
+        "4",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026205",
+      "date": "2026-08-03",
+      "red": [
+        "8",
+        "1",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026204",
+      "date": "2026-08-02",
+      "red": [
+        "9",
+        "7",
+        "8"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026203",
+      "date": "2026-08-01",
+      "red": [
+        "4",
+        "3",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026202",
+      "date": "2026-07-31",
+      "red": [
+        "9",
+        "8",
+        "8"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026201",
+      "date": "2026-07-30",
+      "red": [
+        "3",
+        "2",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026200",
+      "date": "2026-07-29",
+      "red": [
+        "9",
+        "1",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026199",
+      "date": "2026-07-28",
+      "red": [
+        "5",
+        "9",
+        "1"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026198",
+      "date": "2026-07-27",
+      "red": [
+        "6",
+        "8",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026197",
+      "date": "2026-07-26",
+      "red": [
+        "2",
+        "3",
+        "2"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026196",
+      "date": "2026-07-25",
+      "red": [
+        "4",
+        "1",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026195",
+      "date": "2026-07-24",
+      "red": [
+        "2",
+        "7",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026194",
+      "date": "2026-07-23",
+      "red": [
+        "2",
+        "8",
+        "3"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026193",
+      "date": "2026-07-22",
+      "red": [
+        "2",
+        "5",
+        "4"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026192",
+      "date": "2026-07-21",
+      "red": [
+        "4",
+        "2",
+        "5"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026191",
+      "date": "2026-07-20",
+      "red": [
+        "9",
+        "0",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026190",
+      "date": "2026-07-19",
+      "red": [
+        "0",
+        "2",
+        "6"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026189",
+      "date": "2026-07-18",
+      "red": [
+        "5",
+        "5",
+        "8"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
+    },
+    {
+      "issue": "2026188",
+      "date": "2026-07-17",
+      "red": [
+        "9",
+        "6",
+        "9"
+      ],
+      "blue": [],
+      "verified": false,
+      "sources": [
+        "cwl.gov.cn"
+      ]
     }
   ],
   "refresh_ok": true,
   "reference": {
     "ok": true,
-    "message": "基于已核对真实开奖的热号/冷号混合统计，仅供娱乐参考，不提高中奖概率",
-    "based_on_issues": 50,
+    "message": "综合热冷、遗漏、欲出几率与定胆杀号的统计参考（对齐 500/17500 常用指标），不提高中奖概率",
+    "based_on_issues": 100,
+    "method": "omit+want_rate+dan_sha+form",
     "picks": [
       {
-        "label": "统计参考一注",
+        "label": "定位均衡",
         "red": [
-          "0",
-          "1",
+          "9",
+          "8",
+          "2"
+        ],
+        "blue": [],
+        "positional": true
+      },
+      {
+        "label": "均衡参考",
+        "red": [
+          "2",
+          "8",
           "9"
+        ],
+        "blue": []
+      },
+      {
+        "label": "热号参考",
+        "red": [
+          "2",
+          "8",
+          "9"
+        ],
+        "blue": []
+      },
+      {
+        "label": "欲出/冷号参考",
+        "red": [
+          "4",
+          "5",
+          "8"
         ],
         "blue": []
       }
     ],
     "hot_red": [
       "9",
-      "1",
-      "0",
-      "6",
+      "2",
       "8",
-      "2"
+      "5",
+      "1",
+      "6",
+      "0",
+      "3",
+      "4",
+      "7"
     ],
     "cold_red": [
-      "4",
-      "3",
-      "7",
-      "2",
       "5",
-      "6"
+      "8",
+      "4",
+      "0",
+      "6",
+      "7",
+      "3",
+      "9",
+      "1",
+      "2"
     ],
     "hot_blue": [],
-    "cold_blue": []
+    "cold_blue": [],
+    "omission_red": [
+      {
+        "n": "0",
+        "appear": 22,
+        "current": 4,
+        "avg": 3.4,
+        "max": 19,
+        "max_streak": 4,
+        "want_rate": 1.17
+      },
+      {
+        "n": "1",
+        "appear": 25,
+        "current": 0,
+        "avg": 2.8,
+        "max": 12,
+        "max_streak": 3,
+        "want_rate": 0.0
+      },
+      {
+        "n": "2",
+        "appear": 34,
+        "current": 0,
+        "avg": 1.9,
+        "max": 18,
+        "max_streak": 4,
+        "want_rate": 0.0
+      },
+      {
+        "n": "3",
+        "appear": 22,
+        "current": 2,
+        "avg": 3.3,
+        "max": 21,
+        "max_streak": 3,
+        "want_rate": 0.6
+      },
+      {
+        "n": "4",
+        "appear": 21,
+        "current": 7,
+        "avg": 3.4,
+        "max": 12,
+        "max_streak": 3,
+        "want_rate": 2.06
+      },
+      {
+        "n": "5",
+        "appear": 31,
+        "current": 7,
+        "avg": 2.0,
+        "max": 7,
+        "max_streak": 3,
+        "want_rate": 3.44
+      },
+      {
+        "n": "6",
+        "appear": 25,
+        "current": 3,
+        "avg": 3.0,
+        "max": 9,
+        "max_streak": 3,
+        "want_rate": 1.0
+      },
+      {
+        "n": "7",
+        "appear": 19,
+        "current": 3,
+        "avg": 3.9,
+        "max": 11,
+        "max_streak": 2,
+        "want_rate": 0.76
+      },
+      {
+        "n": "8",
+        "appear": 34,
+        "current": 6,
+        "avg": 1.8,
+        "max": 6,
+        "max_streak": 3,
+        "want_rate": 3.36
+      },
+      {
+        "n": "9",
+        "appear": 35,
+        "current": 1,
+        "avg": 1.9,
+        "max": 6,
+        "max_streak": 3,
+        "want_rate": 0.53
+      }
+    ],
+    "omission_blue": [],
+    "dan": [
+      "1",
+      "2",
+      "5"
+    ],
+    "sha": [
+      "7",
+      "4",
+      "0"
+    ],
+    "latest_form": {
+      "sum": 4,
+      "span": 1,
+      "odd_even": "2:1",
+      "big_small": "0:3",
+      "mod3": "121",
+      "group": "组三"
+    },
+    "windows": [
+      30,
+      50,
+      100
+    ],
+    "omission_positions": {
+      "bai": [
+        {
+          "n": "0",
+          "appear": 10,
+          "current": 15,
+          "avg": 8.1,
+          "max": 39,
+          "max_streak": 2,
+          "want_rate": 1.85
+        },
+        {
+          "n": "1",
+          "appear": 6,
+          "current": 0,
+          "avg": 13.4,
+          "max": 48,
+          "max_streak": 2,
+          "want_rate": 0.0
+        },
+        {
+          "n": "2",
+          "appear": 12,
+          "current": 4,
+          "avg": 7.2,
+          "max": 27,
+          "max_streak": 3,
+          "want_rate": 0.56
+        },
+        {
+          "n": "3",
+          "appear": 9,
+          "current": 5,
+          "avg": 9.1,
+          "max": 33,
+          "max_streak": 1,
+          "want_rate": 0.55
+        },
+        {
+          "n": "4",
+          "appear": 6,
+          "current": 7,
+          "avg": 16.6,
+          "max": 49,
+          "max_streak": 1,
+          "want_rate": 0.42
+        },
+        {
+          "n": "5",
+          "appear": 10,
+          "current": 10,
+          "avg": 8.8,
+          "max": 15,
+          "max_streak": 1,
+          "want_rate": 1.14
+        },
+        {
+          "n": "6",
+          "appear": 11,
+          "current": 9,
+          "avg": 7.0,
+          "max": 23,
+          "max_streak": 1,
+          "want_rate": 1.29
+        },
+        {
+          "n": "7",
+          "appear": 6,
+          "current": 8,
+          "avg": 12.8,
+          "max": 19,
+          "max_streak": 2,
+          "want_rate": 0.62
+        },
+        {
+          "n": "8",
+          "appear": 14,
+          "current": 6,
+          "avg": 4.8,
+          "max": 12,
+          "max_streak": 2,
+          "want_rate": 1.24
+        },
+        {
+          "n": "9",
+          "appear": 16,
+          "current": 2,
+          "avg": 5.5,
+          "max": 12,
+          "max_streak": 1,
+          "want_rate": 0.37
+        }
+      ],
+      "shi": [
+        {
+          "n": "0",
+          "appear": 8,
+          "current": 4,
+          "avg": 12.1,
+          "max": 27,
+          "max_streak": 2,
+          "want_rate": 0.33
+        },
+        {
+          "n": "1",
+          "appear": 11,
+          "current": 6,
+          "avg": 7.5,
+          "max": 27,
+          "max_streak": 2,
+          "want_rate": 0.8
+        },
+        {
+          "n": "2",
+          "appear": 8,
+          "current": 0,
+          "avg": 12.9,
+          "max": 44,
+          "max_streak": 1,
+          "want_rate": 0.0
+        },
+        {
+          "n": "3",
+          "appear": 10,
+          "current": 2,
+          "avg": 8.8,
+          "max": 21,
+          "max_streak": 2,
+          "want_rate": 0.23
+        },
+        {
+          "n": "4",
+          "appear": 8,
+          "current": 18,
+          "avg": 8.0,
+          "max": 18,
+          "max_streak": 1,
+          "want_rate": 2.25
+        },
+        {
+          "n": "5",
+          "appear": 13,
+          "current": 20,
+          "avg": 5.5,
+          "max": 20,
+          "max_streak": 2,
+          "want_rate": 3.64
+        },
+        {
+          "n": "6",
+          "appear": 8,
+          "current": 9,
+          "avg": 11.9,
+          "max": 34,
+          "max_streak": 3,
+          "want_rate": 0.76
+        },
+        {
+          "n": "7",
+          "appear": 9,
+          "current": 3,
+          "avg": 10.1,
+          "max": 32,
+          "max_streak": 1,
+          "want_rate": 0.3
+        },
+        {
+          "n": "8",
+          "appear": 15,
+          "current": 12,
+          "avg": 4.8,
+          "max": 17,
+          "max_streak": 2,
+          "want_rate": 2.51
+        },
+        {
+          "n": "9",
+          "appear": 10,
+          "current": 1,
+          "avg": 8.7,
+          "max": 21,
+          "max_streak": 1,
+          "want_rate": 0.12
+        }
+      ],
+      "ge": [
+        {
+          "n": "0",
+          "appear": 7,
+          "current": 5,
+          "avg": 9.0,
+          "max": 20,
+          "max_streak": 1,
+          "want_rate": 0.56
+        },
+        {
+          "n": "1",
+          "appear": 12,
+          "current": 0,
+          "avg": 7.0,
+          "max": 15,
+          "max_streak": 1,
+          "want_rate": 0.0
+        },
+        {
+          "n": "2",
+          "appear": 18,
+          "current": 1,
+          "avg": 4.2,
+          "max": 20,
+          "max_streak": 2,
+          "want_rate": 0.24
+        },
+        {
+          "n": "3",
+          "appear": 5,
+          "current": 6,
+          "avg": 20.8,
+          "max": 42,
+          "max_streak": 1,
+          "want_rate": 0.29
+        },
+        {
+          "n": "4",
+          "appear": 7,
+          "current": 17,
+          "avg": 11.8,
+          "max": 31,
+          "max_streak": 1,
+          "want_rate": 1.44
+        },
+        {
+          "n": "5",
+          "appear": 15,
+          "current": 7,
+          "avg": 5.3,
+          "max": 15,
+          "max_streak": 1,
+          "want_rate": 1.32
+        },
+        {
+          "n": "6",
+          "appear": 9,
+          "current": 3,
+          "avg": 10.8,
+          "max": 29,
+          "max_streak": 2,
+          "want_rate": 0.28
+        },
+        {
+          "n": "7",
+          "appear": 6,
+          "current": 12,
+          "avg": 6.8,
+          "max": 14,
+          "max_streak": 2,
+          "want_rate": 1.76
+        },
+        {
+          "n": "8",
+          "appear": 8,
+          "current": 10,
+          "avg": 11.6,
+          "max": 44,
+          "max_streak": 1,
+          "want_rate": 0.86
+        },
+        {
+          "n": "9",
+          "appear": 13,
+          "current": 23,
+          "avg": 5.3,
+          "max": 23,
+          "max_streak": 1,
+          "want_rate": 4.31
+        }
+      ]
+    },
+    "next_prediction": {
+      "ok": true,
+      "for_issue": "2026288",
+      "after_issue": "2026287",
+      "after_date": "2026-10-28",
+      "lottery_id": "fc3d",
+      "red": [
+        "8",
+        "1",
+        "5"
+      ],
+      "blue": [],
+      "reasons": [
+        {
+          "n": "8",
+          "area": "百位",
+          "reason": "百位：欲出1.24，遗漏6/均4.8，出现14"
+        },
+        {
+          "n": "1",
+          "area": "十位",
+          "reason": "十位：欲出0.8，遗漏6/均7.5，出现11"
+        },
+        {
+          "n": "5",
+          "area": "个位",
+          "reason": "个位：欲出1.32，遗漏7/均5.3，出现15"
+        }
+      ],
+      "method": "评分=欲出贴近1.25 + 出现次数 + 定胆/重号/邻号加权；默认避开杀号池。娱乐统计，不提高中奖概率。",
+      "based_on_issues": 100,
+      "disclaimer": "依据历史遗漏与形态加权，非保证开奖结果。",
+      "updated_at": "2026-10-29T12:52:06Z"
+    }
   }
 }

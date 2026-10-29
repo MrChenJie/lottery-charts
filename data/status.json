@@ -1,33 +1,16 @@
 {
-  "updated_at": "2026-10-29T06:25:15Z",
+  "updated_at": "2026-10-29T12:52:07Z",
   "lotteries": {
-    "ssq": {
-      "ok": true,
-      "refresh_ok": true,
-      "confidence": "cross_verified",
-      "updated_at": "2026-10-29T06:25:16Z",
-      "draw_count": 50,
-      "verified_count": 50,
-      "error": null,
-      "notes": []
-    },
-    "dlt": {
-      "ok": true,
-      "refresh_ok": true,
-      "confidence": "cross_verified",
-      "updated_at": "2026-10-29T06:25:16Z",
-      "draw_count": 50,
-      "verified_count": 50,
-      "error": null,
-      "notes": []
-    },
     "fc3d": {
       "ok": true,
       "refresh_ok": true,
       "confidence": "primary_only",
-      "updated_at": "2026-10-29T06:25:17Z",
-      "draw_count": 50,
+      "updated_at": "2026-10-29T12:52:06Z",
+      "draw_count": 100,
       "verified_count": 0,
+      "latest_issue": "2026287",
+      "latest_date": "2026-10-28",
+      "latest_verified": false,
       "error": null,
       "notes": [
         "次源抓取失败，仅使用主源（已标注未交叉验证）"
@@ -37,26 +20,39 @@
       "ok": true,
       "refresh_ok": true,
       "confidence": "primary_only",
-      "updated_at": "2026-10-29T06:25:17Z",
-      "draw_count": 50,
+      "updated_at": "2026-10-29T12:52:07Z",
+      "draw_count": 100,
       "verified_count": 0,
+      "latest_issue": "26287",
+      "latest_date": "2026-10-28",
+      "latest_verified": false,
       "error": null,
       "notes": [
         "次源抓取失败，仅使用主源（已标注未交叉验证）",
         "排列3暂无稳定免费次源，仅体彩主源（不伪造第二源）"
       ]
-    },
-    "qlc": {
-      "ok": true,
-      "refresh_ok": true,
-      "confidence": "cross_verified",
-      "updated_at": "2026-10-29T06:25:18Z",
-      "draw_count": 50,
-      "verified_count": 50,
-      "error": null,
-      "notes": []
     }
   },
   "disclaimer": "开奖数据来自公开免费源交叉核对；统计参考选号非预测。购彩请以官网为准。",
-  "ok": true
+  "mode": "refresh",
+  "ok": true,
+  "post_draw": {
+    "updated_at": "2026-10-29T12:52:07Z",
+    "mode": "post_draw",
+    "beijing_date": "2026-10-29",
+    "targets": [
+      "fc3d",
+      "pl3",
+      "ssq"
+    ],
+    "ready": {},
+    "pending": [
+      "fc3d",
+      "pl3",
+      "ssq"
+    ],
+    "round": 5,
+    "allow_primary_fallback": false,
+    "ok": false
+  }
 }
